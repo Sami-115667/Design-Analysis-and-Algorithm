@@ -1,0 +1,4 @@
+Optimal Cost: 6860
+
+Optimal Cost: 2468920
+
